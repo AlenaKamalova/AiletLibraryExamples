@@ -1,6 +1,6 @@
 # 1. Integrate irLib into project
 
-- [1. Integrate irLib into project](#1-integrate-irlib-into-project)
+- [1. Integrate Ailetlib into project](#1-integrate-irlib-into-project)
     - [1.1. Подключение используя Maven (GitHub)](#11-подключение-используя-maven-github)
         - [1.1.1. Создание GitHub personal access token](#111-создание-github-personal-access-token)
     - [1.2. Методы (Класс IntRtl, Deprecated)](#12-методы-класс-intrtl-deprecated)
